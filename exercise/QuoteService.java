@@ -96,4 +96,27 @@ public class QuoteService {
         Collections.sort(quotes);
         return quotes;
     }
+
+    private Set<String> quotesSet() {
+        Set<String> quoteSet = new HashSet<>();
+        for (Quote quote : getAllQuotes()) {
+            quoteSet.add(quote.getQuote());
+        }
+        return quoteSet;
+    }
+
+    private List<String> uniqueQuotes() {
+        return new ArrayList<>(quotesSet());
+    }
+
+    public String writePoem(int numberOfPoemLines) {
+        List<String> quotes = new ArrayList<>(uniqueQuotes());
+        Random random = new Random();
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = 0; i < numberOfPoemLines; i++) {
+            int number = random.nextInt(quotes.size() - 1);
+            stringBuilder.append(quotes.get(number)).append("\n");
+        }
+        return stringBuilder.toString();
+    }
 }

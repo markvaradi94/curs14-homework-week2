@@ -5421,183 +5421,63 @@ Quote {id = 5419, author = Etty Hillesum, quote = Sometimes the most important t
 Quote {id = 5420, author = Booker Washington, quote = Excellence is to do a common thing in an uncommon way., favourite = false}
 Quote {id = 5421, author = John Lubbock, quote = What we see depends mainly on what we look for., favourite = false}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Quote {id = 22, author = Confucius, quote = Study the past, if you would divine the future., favourite = false}
-Quote {id = 148, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 168, author = Confucius, quote = Silence is a true friend who never betrays., favourite = false}
-Quote {id = 173, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 236, author = Confucius, quote = Wherever you go, go with all your heart., favourite = false}
-Quote {id = 295, author = Confucius, quote = The cautious seldom err., favourite = false}
-Quote {id = 305, author = Confucius, quote = It does not matter how slowly you go as long as you do not stop., favourite = false}
-Quote {id = 307, author = Confucius, quote = To study and not think is a waste. To think and not study is dangerous., favourite = false}
-Quote {id = 348, author = Confucius, quote = Choose a job you love, and you will never have to work a day in your life., favourite = false}
-Quote {id = 377, author = Confucius, quote = Reviewing what you have learned and learning anew, you are fit to be a teacher., favourite = false}
-Quote {id = 417, author = Confucius, quote = What you do not want done to yourself, do not do to others., favourite = false}
-Quote {id = 445, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 501, author = Confucius, quote = I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability., favourite = false}
-Quote {id = 530, author = Confucius, quote = Wherever you go, go with all your heart., favourite = false}
-Quote {id = 550, author = Confucius, quote = Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?, favourite = false}
-Quote {id = 552, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 604, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 623, author = Confucius, quote = What you do not want done to yourself, do not do to others., favourite = false}
-Quote {id = 641, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 658, author = Confucius, quote = Reviewing what you have learned and learning anew, you are fit to be a teacher., favourite = false}
-Quote {id = 659, author = Confucius, quote = The superior man is satisfied and composed; the mean man is always full of distress., favourite = false}
-Quote {id = 724, author = Confucius, quote = To be wrong is nothing unless you continue to remember it., favourite = false}
-Quote {id = 752, author = Confucius, quote = When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself., favourite = false}
-Quote {id = 761, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 792, author = Confucius, quote = Wherever you go, go with all your heart., favourite = false}
-Quote {id = 835, author = Confucius, quote = Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?, favourite = false}
-Quote {id = 953, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 1007, author = Confucius, quote = I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability., favourite = false}
-Quote {id = 1067, author = Confucius, quote = The superior man is modest in his speech, but exceeds in his actions., favourite = false}
-Quote {id = 1100, author = Confucius, quote = They must often change, who would be constant in happiness or wisdom., favourite = false}
-Quote {id = 1118, author = Confucius, quote = When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points., favourite = false}
-Quote {id = 1168, author = Confucius, quote = Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?, favourite = false}
-Quote {id = 1213, author = Confucius, quote = I want you to be everything that's you, deep at the center of your being., favourite = false}
-Quote {id = 1217, author = Confucius, quote = The cautious seldom err., favourite = false}
-Quote {id = 1223, author = Confucius, quote = What you do not want done to yourself, do not do to others., favourite = false}
-Quote {id = 1267, author = Confucius, quote = Silence is a true friend who never betrays., favourite = false}
-Quote {id = 1282, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 1306, author = Confucius, quote = The cautious seldom err., favourite = false}
-Quote {id = 1395, author = Confucius, quote = The superior man is modest in his speech, but exceeds in his actions., favourite = false}
-Quote {id = 1425, author = Confucius, quote = When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself., favourite = false}
-Quote {id = 1430, author = Confucius, quote = Silence is the true friend that never betrays., favourite = false}
-Quote {id = 1463, author = Confucius, quote = Silence is the true friend that never betrays., favourite = false}
-Quote {id = 1525, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 1531, author = Confucius, quote = They must often change, who would be constant in happiness or wisdom., favourite = false}
-Quote {id = 1609, author = Confucius, quote = When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself., favourite = false}
-Quote {id = 1611, author = Confucius, quote = When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self., favourite = false}
-Quote {id = 1628, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 1634, author = Confucius, quote = To be wrong is nothing unless you continue to remember it., favourite = false}
-Quote {id = 1635, author = Confucius, quote = The Superior Man is aware of Righteousness, the inferior man is aware of advantage., favourite = false}
-Quote {id = 1669, author = Confucius, quote = When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self., favourite = false}
-Quote {id = 1678, author = Confucius, quote = Everything has beauty, but not everyone sees it., favourite = false}
-Quote {id = 1696, author = Confucius, quote = Wherever you go, go with all your heart., favourite = false}
-Quote {id = 1719, author = Confucius, quote = The superior man is modest in his speech, but exceeds in his actions., favourite = false}
-Quote {id = 1820, author = Confucius, quote = Reviewing what you have learned and learning anew, you are fit to be a teacher., favourite = false}
-Quote {id = 1825, author = Confucius, quote = The superior man is satisfied and composed; the mean man is always full of distress., favourite = false}
-Quote {id = 1891, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 1934, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 2038, author = Confucius, quote = They must often change, who would be constant in happiness or wisdom., favourite = false}
-Quote {id = 2114, author = Confucius, quote = Fine words and an insinuating appearance are seldom associated with true virtue, favourite = false}
-Quote {id = 2123, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 2167, author = Confucius, quote = What you do not want done to yourself, do not do to others., favourite = false}
-Quote {id = 2235, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 2403, author = Confucius, quote = It does not matter how slowly you go as long as you do not stop., favourite = false}
-Quote {id = 2413, author = Confucius, quote = Ability will never catch up with the demand for it., favourite = false}
-Quote {id = 2443, author = Confucius, quote = If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?, favourite = false}
-Quote {id = 2454, author = Confucius, quote = I want you to be everything that's you, deep at the center of your being., favourite = false}
-Quote {id = 2456, author = Confucius, quote = Our greatest glory is not in never falling, but in rising every time we fall., favourite = false}
-Quote {id = 2620, author = Confucius, quote = I hear and I forget. I see and I remember. I do and I understand., favourite = false}
-Quote {id = 2640, author = Confucius, quote = I want you to be everything that's you, deep at the center of your being., favourite = false}
-Quote {id = 2641, author = Confucius, quote = To study and not think is a waste. To think and not study is dangerous., favourite = false}
-Quote {id = 2652, author = Confucius, quote = The superior man acts before he speaks, and afterwards speaks according to his action., favourite = false}
-Quote {id = 2703, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 2719, author = Confucius, quote = I hear and I forget. I see and I remember. I do and I understand., favourite = false}
-Quote {id = 2824, author = Confucius, quote = Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?, favourite = false}
-Quote {id = 2869, author = Confucius, quote = I hear and I forget. I see and I remember. I do and I understand., favourite = false}
-Quote {id = 2920, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 2953, author = Confucius, quote = Silence is the true friend that never betrays., favourite = false}
-Quote {id = 2978, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 2993, author = Confucius, quote = Learning without reflection is a waste, reflection without learning is dangerous., favourite = false}
-Quote {id = 3004, author = Confucius, quote = They must often change, who would be constant in happiness or wisdom., favourite = false}
-Quote {id = 3052, author = Confucius, quote = Our greatest glory is not in never falling, but in rising every time we fall., favourite = false}
-Quote {id = 3082, author = Confucius, quote = Wherever you go, go with all your heart., favourite = false}
-Quote {id = 3206, author = Confucius, quote = If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?, favourite = false}
-Quote {id = 3279, author = Confucius, quote = To be wrong is nothing unless you continue to remember it., favourite = false}
-Quote {id = 3288, author = Confucius, quote = What you do not want done to yourself, do not do to others., favourite = false}
-Quote {id = 3296, author = Confucius, quote = Study the past, if you would divine the future., favourite = false}
-Quote {id = 3324, author = Confucius, quote = Fine words and an insinuating appearance are seldom associated with true virtue, favourite = false}
-Quote {id = 3344, author = Confucius, quote = Fine words and an insinuating appearance are seldom associated with true virtue, favourite = false}
-Quote {id = 3346, author = Confucius, quote = It does not matter how slowly you go as long as you do not stop., favourite = false}
-Quote {id = 3395, author = Confucius, quote = Sincerity is the way of Heaven. The attainment of sincerity is the way of men., favourite = false}
-Quote {id = 3401, author = Confucius, quote = It does not matter how slowly you go as long as you do not stop., favourite = false}
-Quote {id = 3408, author = Confucius, quote = Our greatest glory is not in never falling, but in rising every time we fall., favourite = false}
-Quote {id = 3517, author = Confucius, quote = Ability will never catch up with the demand for it., favourite = false}
-Quote {id = 3556, author = Confucius, quote = The cautious seldom err., favourite = false}
-Quote {id = 3558, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 3563, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 3646, author = Confucius, quote = When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself., favourite = false}
-Quote {id = 3675, author = Confucius, quote = I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability., favourite = false}
-Quote {id = 3725, author = Confucius, quote = To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom., favourite = false}
-Quote {id = 3754, author = Confucius, quote = To study and not think is a waste. To think and not study is dangerous., favourite = false}
-Quote {id = 3785, author = Confucius, quote = Learning without reflection is a waste, reflection without learning is dangerous., favourite = false}
-Quote {id = 4063, author = Confucius, quote = If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?, favourite = false}
-Quote {id = 4155, author = Confucius, quote = To be wrong is nothing unless you continue to remember it., favourite = false}
-Quote {id = 4183, author = Confucius, quote = Learning without reflection is a waste, reflection without learning is dangerous., favourite = false}
-Quote {id = 4186, author = Confucius, quote = Fine words and an insinuating appearance are seldom associated with true virtue, favourite = false}
-Quote {id = 4247, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
-Quote {id = 4258, author = Confucius, quote = The superior man is satisfied and composed; the mean man is always full of distress., favourite = false}
-Quote {id = 4294, author = Confucius, quote = The superior man is modest in his speech, but exceeds in his actions., favourite = false}
-Quote {id = 4327, author = Confucius, quote = If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?, favourite = false}
-Quote {id = 4329, author = Confucius, quote = He who wishes to secure the good of others, has already secured his own., favourite = false}
-Quote {id = 4342, author = Confucius, quote = Sincerity is the way of Heaven. The attainment of sincerity is the way of men., favourite = false}
-Quote {id = 4362, author = Confucius, quote = I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability., favourite = false}
-Quote {id = 4395, author = Confucius, quote = I hear and I forget. I see and I remember. I do and I understand., favourite = false}
-Quote {id = 4503, author = Confucius, quote = I want you to be everything that's you, deep at the center of your being., favourite = false}
-Quote {id = 4617, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 4650, author = Confucius, quote = I hear and I forget. I see and I remember. I do and I understand., favourite = false}
-Quote {id = 4716, author = Confucius, quote = To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom., favourite = false}
-Quote {id = 4742, author = Confucius, quote = Reviewing what you have learned and learning anew, you are fit to be a teacher., favourite = false}
-Quote {id = 4769, author = Confucius, quote = I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability., favourite = false}
-Quote {id = 4770, author = Confucius, quote = The Superior Man is aware of Righteousness, the inferior man is aware of advantage., favourite = false}
-Quote {id = 4792, author = Confucius, quote = When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points., favourite = false}
-Quote {id = 4834, author = Confucius, quote = The cautious seldom err., favourite = false}
-Quote {id = 4860, author = Confucius, quote = Life is really simple, but we insist on making it complicated., favourite = false}
-Quote {id = 4869, author = Confucius, quote = Ability will never catch up with the demand for it., favourite = false}
-Quote {id = 4944, author = Confucius, quote = Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?, favourite = false}
-Quote {id = 4992, author = Confucius, quote = The superior man acts before he speaks, and afterwards speaks according to his action., favourite = false}
-Quote {id = 5050, author = Confucius, quote = It does not matter how slowly you go as long as you do not stop., favourite = false}
-Quote {id = 5061, author = Confucius, quote = The Superior Man is aware of Righteousness, the inferior man is aware of advantage., favourite = false}
-Quote {id = 5067, author = Confucius, quote = When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self., favourite = false}
-Quote {id = 5104, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 5131, author = Confucius, quote = Choose a job you love, and you will never have to work a day in your life., favourite = false}
-Quote {id = 5141, author = Confucius, quote = To study and not think is a waste. To think and not study is dangerous., favourite = false}
-Quote {id = 5146, author = Confucius, quote = They must often change, who would be constant in happiness or wisdom., favourite = false}
-Quote {id = 5159, author = Confucius, quote = The superior man is satisfied and composed; the mean man is always full of distress., favourite = false}
-Quote {id = 5203, author = Confucius, quote = The superior man is modest in his speech, but exceeds in his actions., favourite = false}
-Quote {id = 5309, author = Confucius, quote = The more you know yourself, the more you forgive yourself., favourite = false}
-Quote {id = 5314, author = Confucius, quote = I am not bothered by the fact that I am unknown. I am bothered when I do not know others., favourite = false}
-Quote {id = 5388, author = Confucius, quote = When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps., favourite = false}
-Quote {id = 5416, author = Confucius, quote = To be wronged is nothing unless you continue to remember it., favourite = false}
+Quote {id = 35, author = Abraham Lincoln, quote = A house divided against itself cannot stand., favourite = false}
+Quote {id = 70, author = Abraham Lincoln, quote = Important principles may, and must, be inflexible., favourite = false}
+Quote {id = 255, author = Abraham Lincoln, quote = I destroy my enemies when I make them my friends., favourite = false}
+Quote {id = 563, author = Abraham Lincoln, quote = I destroy my enemies when I make them my friends., favourite = false}
+Quote {id = 576, author = Abraham Lincoln, quote = You have to do your own growing no matter how tall your grandfather was., favourite = false}
+Quote {id = 637, author = Abraham Lincoln, quote = Give me six hours to chop down a tree and I will spend the first four sharpening the axe., favourite = false}
+Quote {id = 739, author = Abraham Lincoln, quote = Most folks are about as happy as they make up their minds to be., favourite = false}
+Quote {id = 806, author = Abraham Lincoln, quote = Most people are about as happy as they make up their minds to be, favourite = false}
+Quote {id = 929, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 966, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 1249, author = Abraham Lincoln, quote = Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing., favourite = false}
+Quote {id = 1327, author = Abraham Lincoln, quote = As our case is new, we must think and act anew., favourite = false}
+Quote {id = 1351, author = Abraham Lincoln, quote = The best thing about the future is that it only comes one day at a time., favourite = false}
+Quote {id = 1535, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 1619, author = Abraham Lincoln, quote = Most people are about as happy as they make up their minds to be, favourite = false}
+Quote {id = 1781, author = Abraham Lincoln, quote = You have to do your own growing no matter how tall your grandfather was., favourite = false}
+Quote {id = 1863, author = Abraham Lincoln, quote = I destroy my enemies when I make them my friends., favourite = false}
+Quote {id = 1879, author = Abraham Lincoln, quote = As our case is new, we must think and act anew., favourite = false}
+Quote {id = 1885, author = Abraham Lincoln, quote = Most folks are about as happy as they make up their minds to be., favourite = false}
+Quote {id = 2059, author = Abraham Lincoln, quote = Be sure you put your feet in the right place, then stand firm., favourite = false}
+Quote {id = 2246, author = Abraham Lincoln, quote = I walk slowly, but I never walk backward., favourite = false}
+Quote {id = 2681, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 2771, author = Abraham Lincoln, quote = I walk slowly, but I never walk backward., favourite = false}
+Quote {id = 2840, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 2948, author = Abraham Lincoln, quote = I destroy my enemies when I make them my friends., favourite = false}
+Quote {id = 2968, author = Abraham Lincoln, quote = Always bear in mind that your own resolution to succeed is more important than any one thing., favourite = false}
+Quote {id = 3322, author = Abraham Lincoln, quote = Most folks are as happy as they make up their minds to be., favourite = false}
+Quote {id = 3359, author = Abraham Lincoln, quote = Truth is generally the best vindication against slander., favourite = false}
+Quote {id = 4275, author = Abraham Lincoln, quote = Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing., favourite = false}
+Quote {id = 4402, author = Abraham Lincoln, quote = Most folks are about as happy as they make up their minds to be., favourite = false}
+Quote {id = 4444, author = Abraham Lincoln, quote = Always bear in mind that your own resolution to succeed is more important than any one thing., favourite = false}
+Quote {id = 4583, author = Abraham Lincoln, quote = Most folks are about as happy as they make up their minds to be., favourite = false}
+Quote {id = 4788, author = Abraham Lincoln, quote = Most people are about as happy as they make up their minds to be, favourite = false}
+Quote {id = 4794, author = Abraham Lincoln, quote = Be sure you put your feet in the right place, then stand firm., favourite = false}
+Quote {id = 4842, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 5109, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = false}
+Quote {id = 5257, author = Abraham Lincoln, quote = Give me six hours to chop down a tree and I will spend the first four sharpening the axe., favourite = false}
+Quote {id = 5315, author = Abraham Lincoln, quote = A house divided against itself cannot stand., favourite = false}
+Quote {id = 5411, author = Abraham Lincoln, quote = I will prepare and some day my chance will come., favourite = false}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Ability will never catch up with the demand for it.
-Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
-Choose a job you love, and you will never have to work a day in your life.
-Everything has beauty, but not everyone sees it.
-Fine words and an insinuating appearance are seldom associated with true virtue
-He who wishes to secure the good of others, has already secured his own.
-I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
-I hear and I forget. I see and I remember. I do and I understand.
-I want you to be everything that's you, deep at the center of your being.
-I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.
-If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
-It does not matter how slowly you go as long as you do not stop.
-Learning without reflection is a waste, reflection without learning is dangerous.
-Life is really simple, but we insist on making it complicated.
-Our greatest glory is not in never falling, but in rising every time we fall.
-Reviewing what you have learned and learning anew, you are fit to be a teacher.
-Silence is a true friend who never betrays.
-Silence is the true friend that never betrays.
-Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
-Study the past, if you would divine the future.
-The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
-The cautious seldom err.
-The more you know yourself, the more you forgive yourself.
-The superior man acts before he speaks, and afterwards speaks according to his action.
-The superior man is modest in his speech, but exceeds in his actions.
-The superior man is satisfied and composed; the mean man is always full of distress.
-They must often change, who would be constant in happiness or wisdom.
-To be wrong is nothing unless you continue to remember it.
-To be wronged is nothing unless you continue to remember it.
-To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
-To study and not think is a waste. To think and not study is dangerous.
-What you do not want done to yourself, do not do to others.
-When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
-When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
-When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
-When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
-Wherever you go, go with all your heart.
+A house divided against itself cannot stand.
+Always bear in mind that your own resolution to succeed is more important than any one thing.
+As our case is new, we must think and act anew.
+Be sure you put your feet in the right place, then stand firm.
+Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+I destroy my enemies when I make them my friends.
+I walk slowly, but I never walk backward.
+I will prepare and some day my chance will come.
+Important principles may, and must, be inflexible.
+Most folks are about as happy as they make up their minds to be.
+Most folks are as happy as they make up their minds to be.
+Most people are about as happy as they make up their minds to be
+The best thing about the future is that it only comes one day at a time.
+Truth is generally the best vindication against slander.
+When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+You have to do your own growing no matter how tall your grandfather was.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A. A. Milne
 A. Powell Davies
@@ -6276,12 +6156,18 @@ Zig Ziglar
 Ziggy
 unknown
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Quote {id = 490, author = Buddha, quote = Happiness comes when your work and words are of benefit to yourself and others., favourite = true}
-Quote {id = 1376, author = Thomas Jefferson, quote = Don't talk about what you have done or what you are going to do., favourite = true}
-Quote {id = 1383, author = Frances de Sales, quote = Nothing is so strong as gentleness. Nothing is so gentle as real strength., favourite = true}
-Quote {id = 2249, author = Moncure Conway, quote = The best thing in every noble dream is the dreamer..., favourite = true}
-Quote {id = 3252, author = Philip Breedveld, quote = Moments of complete apathy are the best for new creations., favourite = true}
-Quote {id = 4054, author = unknown, quote = Most smiles are started by another smile., favourite = true}
-Quote {id = 5364, author = Willa Cather, quote = Where there is great love, there are always miracles., favourite = true}
+Quote {id = 1465, author = Carl Jung, quote = Everything that irritates us about others can lead us to an understanding about ourselves., favourite = true}
+Quote {id = 1535, author = Abraham Lincoln, quote = When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run., favourite = true}
+Quote {id = 1914, author = Tony Robbins, quote = The only limit to your impact is your imagination and commitment., favourite = true}
+Quote {id = 1984, author = Buddha, quote = Always be mindful of the kindness and not the faults of others., favourite = true}
+Quote {id = 2308, author = Peter Drucker, quote = Follow effective action with quiet reflection. From the quiet reflection will come even more effective action., favourite = true}
+Quote {id = 2349, author = unknown, quote = If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand., favourite = true}
+Quote {id = 4706, author = Charlotte Gilman, quote = Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!, favourite = true}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Progress always involves risks. You can't steal second base and keep your foot on first.
+I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+
+If you want to study yourself  look into the hearts of other people. If you want to study other people  look into your own heart.
+If you change the way you look at things, the things you look at change.
+The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+The world doesnt happen to you it happens from you.
+If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.

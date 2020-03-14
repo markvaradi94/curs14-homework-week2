@@ -39,6 +39,10 @@ public class Main {
         writer.write(printList(quoteService.getFavouriteQuotes()));
         writer.newLine();
         writer.write(quoteService.getRandomQuote());
+        writer.newLine();
+        writer.write("\n");
+
+        writer.write(quoteService.writePoem(5));
         writer.close();
     }
 
