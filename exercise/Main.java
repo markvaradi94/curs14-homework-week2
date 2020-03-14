@@ -27,8 +27,16 @@ public class Main {
         quoteService.setFavourite(number);
         number = random1.nextInt(quotes.size() - 1);
         quoteService.setFavourite(number);
-        writer.write(printList(quoteService.getFavouriteQuotes()));
+        number = random1.nextInt(quotes.size() - 1);
+        quoteService.setFavourite(number);
+        number = random1.nextInt(quotes.size() - 1);
+        quoteService.setFavourite(number);
+        number = random1.nextInt(quotes.size() - 1);
+        quoteService.setFavourite(number);
+        number = random1.nextInt(quotes.size() - 1);
+        quoteService.setFavourite(number);
 
+        writer.write(printList(quoteService.getFavouriteQuotes()));
         writer.newLine();
         writer.write(quoteService.getRandomQuote());
         writer.close();
